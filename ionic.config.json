@@ -1,0 +1,7 @@
+{
+  "name": "Mimenu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
